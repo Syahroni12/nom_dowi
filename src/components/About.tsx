@@ -80,7 +80,7 @@ export const About = () => {
                 </p>
               </div>
 
-              <div className="grid grid-cols-3 gap-4">
+              {/* <div className="grid grid-cols-3 gap-4">
                 <div className="text-center p-4 bg-muted/50 rounded-lg">
                   <Award className="h-8 w-8 text-primary mx-auto mb-2" />
                   <div className="text-2xl font-bold text-foreground">10+</div>
@@ -96,7 +96,7 @@ export const About = () => {
                   <div className="text-2xl font-bold text-foreground">100%</div>
                   <div className="text-xs text-muted-foreground">Dedikasi</div>
                 </div>
-              </div>
+              </div> */}
 
               <div className="pt-4">
                 <p className="text-sm text-muted-foreground mb-4">
